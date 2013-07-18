@@ -1,0 +1,20 @@
+{
+	"schema_version": "1.2",
+	"packages": [
+		{
+			"name": "Marking Changed Rows",
+			"description": "Mark Updated Row",
+			"author": "Motoharu Tsubaki",
+			"homepage": "https://github.com/Harurow/sublime_markingchangedrows",
+			"last_modified": "2013-07-18 20:58",
+			"platforms": {
+				"*": [
+					{
+						"version": "1.0.0",
+						"url": "https://nodeload.github.com/Harurow/sublime_markingchangedrows/zip/master"
+					}
+				]
+			}
+		}
+	]
+}
