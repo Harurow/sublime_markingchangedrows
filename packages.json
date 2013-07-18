@@ -6,11 +6,11 @@
 			"description": "Mark Updated Row",
 			"author": "Motoharu Tsubaki",
 			"homepage": "https://github.com/Harurow/sublime_markingchangedrows",
-			"last_modified": "2013-07-18 20:58",
+			"last_modified": "2013-07-18 21:42",
 			"platforms": {
 				"*": [
 					{
-						"version": "1.0.0",
+						"version": "1.0.1",
 						"url": "https://nodeload.github.com/Harurow/sublime_markingchangedrows/zip/master"
 					}
 				]
