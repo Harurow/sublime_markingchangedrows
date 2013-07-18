@@ -9,7 +9,6 @@ class MarkingChangedRowsCommand(sublime_plugin.EventListener):
 		changed = view.get_regions('changed')
 		changed +=[view.line(r) for r in view.sel()]
 		view.add_regions('changed', changed, 'mark', 'dot', _MARK_STYLE)
-		print (changed)
 
 	def on_post_save(self, view):
 		settings = sublime.load_settings('MarkingChangedRows.sublime-settings')
