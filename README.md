@@ -1,9 +1,20 @@
-Marking Changed Rows for Sublime Text
-============================
-Sublime Text2 plug-in.
+# Marking Changed Rows for Sublime Text
 
-License
--------
+Sublime Text plug-in.
+
+This plug in attaches the mark to the column which was edited.
+
+## How to Install ##
+
+With [Package Control](http://wbond.net/sublime_packages/package_control):
+
+1. Run “Package Control: Install Package” command, find and install `Marking Changed Rows` plugin.
+
+Manually:
+
+1. Clone or [download](https://github.com/Harurow/sublime_markingchangedrows/archive/master.zip) git repo into your packages folder (in ST, find Browse Packages... menu item to open this folder)
+
+## License
 The MIT License (MIT)
 
 Copyright (c) 2013 Motoharu Tsubaki.
