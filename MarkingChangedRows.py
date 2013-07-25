@@ -18,3 +18,6 @@ class MarkingChangedRowsCommand(sublime_plugin.EventListener):
 
 	def on_post_save(self, view):
 			view.erase_regions('changed')
+
+	def on_load(self, view):
+			view.erase_regions('changed')
