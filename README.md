@@ -1,6 +1,6 @@
 # Marking Changed Rows for Sublime Text
 
-Sublime Text plug-in.
+Sublime Text 2/3 plug-in.
 
 This plug in attaches the mark to the column which was edited.
 
