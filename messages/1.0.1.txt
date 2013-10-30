@@ -1,0 +1,5 @@
+MarkingChangedRows
+==================
+
+1.0.1 change log
+  Fixed behavior of multi-line when editing.
