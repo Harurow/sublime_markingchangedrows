@@ -3,17 +3,16 @@
 import sublime
 import sublime_plugin
 
-settings = sublime.load_settings("MarkingChangedRows.sublime-settings")
 _KEY = 'marking_changed'
 _MARK_STYLE = sublime.HIDE_ON_MINIMAP | sublime.PERSISTENT | sublime.HIDDEN
-_ICON = settings.get("icon")
-_SCOPE = settings.get("scope")
+_ICON = 'dot'
+_SCOPE = 'comment'
 
 class MarkingChangedRowsCommand(sublime_plugin.EventListener):
 	def on_modified(self, view):
 		if not view.file_name():
 			return
-
+			
 		if view.is_dirty():
 			changed = view.get_regions(_KEY)
 			view.erase_regions(_KEY);
