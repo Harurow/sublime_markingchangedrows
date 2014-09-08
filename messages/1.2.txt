@@ -1,0 +1,5 @@
+MarkingChangedRows
+==================
+
+1.2 change log
+  option to use a custom icon to mark changes.
