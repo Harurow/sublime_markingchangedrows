@@ -2,7 +2,11 @@
 
 Sublime Text 2/3 plug-in.
 
-This plug in attaches the mark to the column which was edited.
+This plug in attaches the mark to the row's' which was edited.
+
+Options
+========
+you can use an icon instead of the default 'dot' ,check ``MarkingChangedRows.py``.
 
 ## How to Install ##
 
