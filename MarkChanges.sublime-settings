@@ -1,0 +1,7 @@
+{
+    // Icon name. If given, will draw the named icons in the gutter.
+    // Valid icon names are dot, circle, bookmark.
+    // The icon name may also be an image ,such as Packages/mark.png
+    // The icon will be tinted using the color associated with the scope.
+    "icon": "dot",
+}

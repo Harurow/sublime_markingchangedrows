@@ -6,7 +6,7 @@ attaches a mark to the row's' which was edited.
 
 Options
 ========
-you can use an icon instead of the default 'dot' ,check ``MarkingChangedRows.py``.
+you can use any icon image you want instead of the default 'dot' ,check default settings.
 
 ## How to Install ##
 
@@ -40,4 +40,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
-
