@@ -2,7 +2,7 @@
 
 Sublime Text 2/3 plug-in.
 
-This plug in attaches the mark to the row's' which was edited.
+attaches a mark to the row's' which was edited.
 
 Options
 ========
